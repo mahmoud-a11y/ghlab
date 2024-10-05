@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///C:\Users\Mahmoud El zokm\OneDrive\Documents\Publii\sites\dktwr-mhmwd-glb-llshaa-ltdkhly\preview/sitemap.xml
